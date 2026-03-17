@@ -1,1 +1,1 @@
-From kubeflow/spark-operator:v2.4.0
+From kubeflow/spark-operator/spark-operator:v2.4.0
