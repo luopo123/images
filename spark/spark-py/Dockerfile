@@ -1,1 +1,1 @@
-FROM apache/spark-py:3.5.3
+FROM apache/spark:3.5.3-python
